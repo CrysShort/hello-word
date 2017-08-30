@@ -38,7 +38,11 @@ width: 300px;
 }
 .Ginger_Video{
   positon:relative;
+<<<<<<< HEAD
   height: 370px;
+=======
+  height: 350px;
+>>>>>>> 64cb6d2e9d7b97c9d1b12abb17d468f6ae04cd4e
   overflow:hidden;
   max-width: 600px;
 }
